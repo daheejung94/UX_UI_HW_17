@@ -1,11 +1,12 @@
 .nav{
 display: inline-block;
 vertical-align: top;
-width: 73%;
+width: 100%;
 padding: 1%;
+background-color: lightpink;
 }
 .logo{
-width: 23%; 
+width: 5%; 
 padding: 1%;   
 text-align: center;
 }
@@ -22,10 +23,12 @@ width: 500px;
 margin: auto;
 }
 .footer{
-background-color: #373738;    
+background-color: lightpink;    
 padding: 70px;
+width: 100%;
 }
 .footerul{
 display: inline-block;
 vertical-align: top;
+width: 100%;
 }
